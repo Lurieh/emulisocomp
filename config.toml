@@ -1,0 +1,5 @@
+[categories]
+game = [".iso", ".cue", ".bin", ".cdi", ".gdi", ".mdf", ".mds", ".ccd", ".img", ".sub"]
+save = [".state", ".state.auto", ".srm", ".bcr", ".bkr", ".smpc", ".vmu"]
+ignore = [".url", ".txt", ".pdf", ".jpg", ".png"]
+# Les nouveaux types seront ajoutés ici dynamiquement
